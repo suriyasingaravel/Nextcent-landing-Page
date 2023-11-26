@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .radial-gray{
+  background: radial-gradient(#F5F7FA);
+} */
+
+*{
+  font-family: "Inter";
+}
